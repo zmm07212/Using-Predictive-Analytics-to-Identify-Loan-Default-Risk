@@ -91,17 +91,17 @@ Random Forest was selected as the final model because it achieved the best balan
 
 ## Key Findings
 
-- `loan_percent_income` was the most important predictor of default.
+- loan_percent_income was the most important predictor of default.
 - Tree-based models outperformed Logistic Regression.
 - Random Forest produced the fewest missed default cases.
 - Recall for the default class was the most important metric because missed defaults create financial risk for lenders.
 
 ## Repository Contents
 
-- `README.md`: Project overview and summary
-- `credit_risk_dataset.csv`: Dataset used for analysis
-- `FIN_835_Final_Project_Report.pdf`: Final written report
-- `loan_default_modeling.ipynb`: Full analysis notebook
+- README.md: Project overview and summary
+- credit_risk_dataset.csv: Dataset used for analysis
+- FIN_835_Final_Project_Report.pdf: Final written report
+- loan_default_modeling.ipynb: Full analysis notebook
 
 ## Author
 
