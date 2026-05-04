@@ -99,9 +99,11 @@ Random Forest was selected as the final model because it achieved the best balan
 ## Repository Contents
 
 - README.md: Project overview and summary
+- .gitignore: Files and folders excluded from version control
 - credit_risk_dataset.csv: Dataset used for analysis
-- FIN_835_Final_Project_Report.pdf: Final written report
-- loan_default_modeling.ipynb: Full analysis notebook
+- Martin_Maxwell_ISOM835_Project.pdf: Final written report
+- Martin_Maxwell_ISOM835_Project.ipynb: Full analysis notebook
+- visualizations/: Figures used in the report and notebook
 
 ## Author
 
